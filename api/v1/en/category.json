@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Food",
+        "icon": ""
+    },
+    {
+        "id": 2,
+        "name": "Motor",
+        "icon": ""
+    },
+    {
+        "id": 3,
+        "name": "Vegetables",
+        "icon": ""
+    },
+    {
+        "id": 4,
+        "name": "Location",
+        "icon": ""
+    },
+    {
+        "id": 5,
+        "name": "Bus",
+        "icon": ""
+    },
+    {
+        "id": 6,
+        "name": "Electronics",
+        "icon": ""
+    },
+    {
+        "id": 7,
+        "name": "Architecture",
+        "icon": ""
+    },
+    {
+        "id": 8,
+        "name": "Rite",
+        "icon": ""
+    },
+    {
+        "id": 9,
+        "name": "Tradition",
+        "icon": ""
+    },
+    {
+        "id": 10,
+        "name": "Person",
+        "icon": ""
+    }
+]
