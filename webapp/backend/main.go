@@ -9,8 +9,9 @@ import (
 
 func main() {
 	e := echo.New()
-	catCtrl := controller.CategoryCtrl{db.Open()}
-	mnuCtrl := controller.MenuCtrl{db.Open()}
+	db := db.Open()
+	catCtrl := controller.CategoryCtrl{db}
+	itmCtrl := controller.ItemCtrl{db}
 
 	v1 := e.Group("/api/v1")
 	// Category
@@ -23,13 +24,13 @@ func main() {
 	v1.DELETE("/category/:id", catCtrl.DeleteById)
 
 	// Menu
-	v1.GET("/menu", mnuCtrl.GetAll) // all, last, first, paged
-	v1.GET("/menu/:id", mnuCtrl.GetById)
-	v1.POST("/menu", mnuCtrl.Create)
-	v1.PUT("/menu/:id", mnuCtrl.CreateOrUpdate)
-	v1.PATCH("/menu", mnuCtrl.Update)
-	v1.DELETE("/menu", mnuCtrl.DeleteAll)
-	v1.DELETE("/menu/:id", mnuCtrl.DeleteById)
+	v1.GET("/menu", itmCtrl.GetAll) // all, last, first, paged
+	v1.GET("/menu/:id", itmCtrl.GetById)
+	v1.POST("/menu", itmCtrl.Create)
+	v1.PUT("/menu/:id", itmCtrl.CreateOrUpdate)
+	v1.PATCH("/menu", itmCtrl.Update)
+	v1.DELETE("/menu", itmCtrl.DeleteAll)
+	v1.DELETE("/menu/:id", itmCtrl.DeleteById)
 
 	e.Logger.Fatal(e.Start(":1323"))
 }

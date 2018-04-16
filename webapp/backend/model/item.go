@@ -4,7 +4,7 @@ import (
 	"time"
 )
 
-type Menu struct {
+type Item struct {
 	ID        int       `json:"id"`
 	CatID     int       `json:"cat_id"`
 	Name      string    `json:"name"`
@@ -15,6 +15,6 @@ type Menu struct {
 	UpdateAt  time.Time `json:"update_at"`
 }
 
-func (m *Menu) TableName() string {
-	return "menu"
+func (m *Item) TableName() string {
+	return "item"
 }
