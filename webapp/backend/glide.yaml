@@ -1,0 +1,9 @@
+package: .
+import:
+- package: github.com/jinzhu/gorm
+  version: ^1.9.1
+  subpackages:
+  - dialects/sqlite
+  - dialects/mysql
+- package: github.com/labstack/echo
+  version: ^3.3.5
