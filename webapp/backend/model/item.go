@@ -5,8 +5,9 @@ import (
 )
 
 type Item struct {
-	ID        int       `json:"id"`
+	ID        int64     `json:"id"`
 	CatID     int       `json:"cat_id"`
+	LangKey   string    `json:"lang_key"`
 	Name      string    `json:"name"`
 	Image     string    `json:"image"`
 	Details   string    `json:"details"`

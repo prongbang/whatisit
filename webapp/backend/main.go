@@ -23,14 +23,14 @@ func main() {
 	v1.DELETE("/category", catCtrl.DeleteAll)
 	v1.DELETE("/category/:id", catCtrl.DeleteById)
 
-	// Menu
-	v1.GET("/menu", itmCtrl.GetAll) // all, last, first, paged
-	v1.GET("/menu/:id", itmCtrl.GetById)
-	v1.POST("/menu", itmCtrl.Create)
-	v1.PUT("/menu/:id", itmCtrl.CreateOrUpdate)
-	v1.PATCH("/menu", itmCtrl.Update)
-	v1.DELETE("/menu", itmCtrl.DeleteAll)
-	v1.DELETE("/menu/:id", itmCtrl.DeleteById)
+	// Item
+	v1.GET("/item", itmCtrl.GetAll) // all, last, first, paged
+	v1.GET("/item/:id", itmCtrl.GetById)
+	v1.POST("/item", itmCtrl.Create)
+	v1.PUT("/item/:id", itmCtrl.CreateOrUpdate)
+	v1.PATCH("/item", itmCtrl.Update)
+	v1.DELETE("/item", itmCtrl.DeleteAll)
+	v1.DELETE("/item/:id", itmCtrl.DeleteById)
 
 	e.Logger.Fatal(e.Start(":1323"))
 }
