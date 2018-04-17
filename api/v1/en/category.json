@@ -1,70 +1,70 @@
 [{
         "id": 1,
         "name": "Food",
-        "icon": "",
+        "icon": "https://prongbang.github.io/whatisit/image/category/food.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
         "id": 2,
         "name": "Motor",
-        "icon": "",
+        "icon": "https://prongbang.github.io/whatisit/image/category/motor.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
         "id": 3,
         "name": "Vegetables",
-        "icon": "",
+        "icon": "https://prongbang.github.io/whatisit/image/category/vegetables.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
         "id": 4,
-        "name": "Location",
-        "icon": "",
+        "name": "Place",
+        "icon": "https://prongbang.github.io/whatisit/image/category/place.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
         "id": 5,
         "name": "Bus",
-        "icon": "",
+        "icon": "https://prongbang.github.io/whatisit/image/category/bus.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
         "id": 6,
         "name": "Electronics",
-        "icon": "",
+        "icon": "https://prongbang.github.io/whatisit/image/category/electronics.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
         "id": 7,
         "name": "Architecture",
-        "icon": "",
+        "icon": "https://prongbang.github.io/whatisit/image/category/architecture.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
         "id": 8,
         "name": "Rite",
-        "icon": "",
+        "icon": "https://prongbang.github.io/whatisit/image/category/rite.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
         "id": 9,
         "name": "Tradition",
-        "icon": "",
+        "icon": "https://prongbang.github.io/whatisit/image/category/tradition.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
         "id": 10,
         "name": "Person",
-        "icon": "",
+        "icon": "https://prongbang.github.io/whatisit/image/category/person.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
         "update_at": "0001-01-01T00:00:00Z"
     }
