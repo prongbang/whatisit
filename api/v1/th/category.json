@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "lang_key": "th",
         "name": "อาหาร",
         "icon": "https://prongbang.github.io/whatisit/image/category/food.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -8,6 +9,7 @@
     },
     {
         "id": 2,
+        "lang_key": "th",
         "name": "เครื่องยนต์",
         "icon": "https://prongbang.github.io/whatisit/image/category/motor.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -15,6 +17,7 @@
     },
     {
         "id": 3,
+        "lang_key": "th",
         "name": "ผัก",
         "icon": "https://prongbang.github.io/whatisit/image/category/vegetables.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -22,6 +25,7 @@
     },
     {
         "id": 4,
+        "lang_key": "th",
         "name": "สถานที่",
         "icon": "https://prongbang.github.io/whatisit/image/category/place.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -29,6 +33,7 @@
     },
     {
         "id": 5,
+        "lang_key": "th",
         "name": "รถโดยสาร",
         "icon": "https://prongbang.github.io/whatisit/image/category/bus.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -36,6 +41,7 @@
     },
     {
         "id": 6,
+        "lang_key": "th",
         "name": "เครื่องใช้ไฟฟ้า",
         "icon": "https://prongbang.github.io/whatisit/image/category/electronics.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -43,6 +49,7 @@
     },
     {
         "id": 7,
+        "lang_key": "th",
         "name": "สถาปัตยกรรม",
         "icon": "https://prongbang.github.io/whatisit/image/category/architecture.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -50,6 +57,7 @@
     },
     {
         "id": 8,
+        "lang_key": "th",
         "name": "พิธีกรรม",
         "icon": "https://prongbang.github.io/whatisit/image/category/rite.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -57,6 +65,7 @@
     },
     {
         "id": 9,
+        "lang_key": "th",
         "name": "ประเพณี",
         "icon": "https://prongbang.github.io/whatisit/image/category/tradition.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -64,6 +73,7 @@
     },
     {
         "id": 10,
+        "lang_key": "th",
         "name": "บุคคล",
         "icon": "https://prongbang.github.io/whatisit/image/category/person.svg",
         "created_at": "2018-04-16T21:09:04+07:00",
