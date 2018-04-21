@@ -5,7 +5,11 @@
         "lang_key": "en",
         "name": "Test 1",
         "soundtrack_name": "Test 1",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ysvl3tWWeVuBNW4UUCX6TLuzsjSrzBGRRKbRJto-CNxHsbWgRA",
+        "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ysvl3tWWeVuBNW4UUCX6TLuzsjSrzBGRRKbRJto-CNxHsbWgRA",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ysvl3tWWeVuBNW4UUCX6TLuzsjSrzBGRRKbRJto-CNxHsbWgRA",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ysvl3tWWeVuBNW4UUCX6TLuzsjSrzBGRRKbRJto-CNxHsbWgRA"
+        ],
         "details": "Test detail 1",
         "web_url": "",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -21,7 +25,11 @@
         "lang_key": "en",
         "name": "Test 2",
         "soundtrack_name": "Test 2",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMqOlvCHVeUu1pk355uH040Be8SSl9uXgy_lmc852cbArivpT3w",
+        "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMqOlvCHVeUu1pk355uH040Be8SSl9uXgy_lmc852cbArivpT3w",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMqOlvCHVeUu1pk355uH040Be8SSl9uXgy_lmc852cbArivpT3w",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMqOlvCHVeUu1pk355uH040Be8SSl9uXgy_lmc852cbArivpT3w"
+        ],
         "details": "Test detail 2",
         "web_url": "",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -37,7 +45,11 @@
         "lang_key": "en",
         "name": "Test 3",
         "soundtrack_name": "Test 3",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkqphmk6zkojKQLFGUvtdJBbSMkpgFztTtdElunIo8F7m8imr7A",
+        "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkqphmk6zkojKQLFGUvtdJBbSMkpgFztTtdElunIo8F7m8imr7A",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkqphmk6zkojKQLFGUvtdJBbSMkpgFztTtdElunIo8F7m8imr7A",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkqphmk6zkojKQLFGUvtdJBbSMkpgFztTtdElunIo8F7m8imr7A"
+        ],
         "details": "Test detail 3",
         "web_url": "",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -53,7 +65,11 @@
         "lang_key": "en",
         "name": "Test 4",
         "soundtrack_name": "Test 4",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFo5n9ZZbxXuM7jWjOnShjmmquhw89QV_99WTCziTkisU7ZzD",
+        "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFo5n9ZZbxXuM7jWjOnShjmmquhw89QV_99WTCziTkisU7ZzD",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFo5n9ZZbxXuM7jWjOnShjmmquhw89QV_99WTCziTkisU7ZzD",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFo5n9ZZbxXuM7jWjOnShjmmquhw89QV_99WTCziTkisU7ZzD"
+        ],
         "details": "Test detail 4",
         "web_url": "",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -69,7 +85,11 @@
         "lang_key": "en",
         "name": "Test 5",
         "soundtrack_name": "Test 5",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-n3qYZRWO5l4eqyqMirdS4IFpoIoLmYZXidrDQIW8ipT7EZ1Xw",
+        "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-n3qYZRWO5l4eqyqMirdS4IFpoIoLmYZXidrDQIW8ipT7EZ1Xw",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-n3qYZRWO5l4eqyqMirdS4IFpoIoLmYZXidrDQIW8ipT7EZ1Xw",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-n3qYZRWO5l4eqyqMirdS4IFpoIoLmYZXidrDQIW8ipT7EZ1Xw"
+        ],
         "details": "Test detail 5",
         "web_url": "",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -85,7 +105,11 @@
         "lang_key": "en",
         "name": "Test 6",
         "soundtrack_name": "Test 6",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VBeDARDCmWQx-Ek11SAnWk6_Y7Gl4QN7hc-Pf29C-k2s-5xrXA",
+        "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VBeDARDCmWQx-Ek11SAnWk6_Y7Gl4QN7hc-Pf29C-k2s-5xrXA",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VBeDARDCmWQx-Ek11SAnWk6_Y7Gl4QN7hc-Pf29C-k2s-5xrXA",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VBeDARDCmWQx-Ek11SAnWk6_Y7Gl4QN7hc-Pf29C-k2s-5xrXA"
+        ],
         "details": "Test detail 6",
         "web_url": "",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -101,7 +125,11 @@
         "lang_key": "en",
         "name": "Test 7",
         "soundtrack_name": "7",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzWxpXai3z6ZbePCJF5UXfXCdJ7Gxfq-c7KA9hGDAzTIeXk_qTBg",
+        "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzWxpXai3z6ZbePCJF5UXfXCdJ7Gxfq-c7KA9hGDAzTIeXk_qTBg",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzWxpXai3z6ZbePCJF5UXfXCdJ7Gxfq-c7KA9hGDAzTIeXk_qTBg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzWxpXai3z6ZbePCJF5UXfXCdJ7Gxfq-c7KA9hGDAzTIeXk_qTBg"
+        ],
         "details": "Test detail 7",
         "web_url": "",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -117,7 +145,11 @@
         "lang_key": "en",
         "name": "Test 8",
         "soundtrack_name": "Test 8",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0MCW_5JDNub8eeqg09nZqS9uiIv7wwlbLYrOu_oQdj_27LedVg",
+        "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0MCW_5JDNub8eeqg09nZqS9uiIv7wwlbLYrOu_oQdj_27LedVg",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0MCW_5JDNub8eeqg09nZqS9uiIv7wwlbLYrOu_oQdj_27LedVg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0MCW_5JDNub8eeqg09nZqS9uiIv7wwlbLYrOu_oQdj_27LedVg"
+        ],
         "details": "Test detail 8",
         "web_url": "",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -133,7 +165,11 @@
         "lang_key": "en",
         "name": "Test 9",
         "soundtrack_name": "Test 9",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShw_TA1Db53WayQTbJVgElWONF6gdVAnP58ijdqDuluBYe8ypD",
+        "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShw_TA1Db53WayQTbJVgElWONF6gdVAnP58ijdqDuluBYe8ypD",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShw_TA1Db53WayQTbJVgElWONF6gdVAnP58ijdqDuluBYe8ypD",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShw_TA1Db53WayQTbJVgElWONF6gdVAnP58ijdqDuluBYe8ypD"
+        ],
         "details": "Test detail 9",
         "web_url": "",
         "created_at": "2018-04-16T21:09:04+07:00",
@@ -149,7 +185,11 @@
         "lang_key": "en",
         "name": "Test 10",
         "soundtrack_name": "Test 10",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhDpuqx71zjsq1QKNMjffQpO_PtPN2pbfwvB2_R4vKbP15uqI",
+        "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhDpuqx71zjsq1QKNMjffQpO_PtPN2pbfwvB2_R4vKbP15uqI",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhDpuqx71zjsq1QKNMjffQpO_PtPN2pbfwvB2_R4vKbP15uqI",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhDpuqx71zjsq1QKNMjffQpO_PtPN2pbfwvB2_R4vKbP15uqI"
+        ],
         "details": "Test detail 10",
         "web_url": "",
         "created_at": "2018-04-16T21:09:04+07:00",
