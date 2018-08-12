@@ -1,7 +1,7 @@
 [{
         "id": 1,
         "cat_id": 1,
-        "lang_key": "en",
+        "lang_key": "th",
         "name": "ทดสอบ 1",
         "soundtrack_name": "ทดสอบ 1",
         "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ysvl3tWWeVuBNW4UUCX6TLuzsjSrzBGRRKbRJto-CNxHsbWgRA",
@@ -24,7 +24,7 @@
     {
         "id": 2,
         "cat_id": 1,
-        "lang_key": "en",
+        "lang_key": "th",
         "name": "ทดสอบ 2",
         "soundtrack_name": "ทดสอบ 2",
         "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfMqOlvCHVeUu1pk355uH040Be8SSl9uXgy_lmc852cbArivpT3w",
@@ -47,7 +47,7 @@
     {
         "id": 3,
         "cat_id": 1,
-        "lang_key": "en",
+        "lang_key": "th",
         "name": "ทดสอบ 3",
         "soundtrack_name": "ทดสอบ 3",
         "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkqphmk6zkojKQLFGUvtdJBbSMkpgFztTtdElunIo8F7m8imr7A",
@@ -70,7 +70,7 @@
     {
         "id": 4,
         "cat_id": 1,
-        "lang_key": "en",
+        "lang_key": "th",
         "name": "ทดสอบ 4",
         "soundtrack_name": "ทดสอบ 4",
         "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFo5n9ZZbxXuM7jWjOnShjmmquhw89QV_99WTCziTkisU7ZzD",
@@ -93,7 +93,7 @@
     {
         "id": 5,
         "cat_id": 1,
-        "lang_key": "en",
+        "lang_key": "th",
         "name": "ทดสอบ 5",
         "soundtrack_name": "ทดสอบ 5",
         "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-n3qYZRWO5l4eqyqMirdS4IFpoIoLmYZXidrDQIW8ipT7EZ1Xw",
@@ -116,7 +116,7 @@
     {
         "id": 6,
         "cat_id": 1,
-        "lang_key": "en",
+        "lang_key": "th",
         "name": "ทดสอบ 6",
         "soundtrack_name": "ทดสอบ 6",
         "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VBeDARDCmWQx-Ek11SAnWk6_Y7Gl4QN7hc-Pf29C-k2s-5xrXA",
@@ -139,7 +139,7 @@
     {
         "id": 7,
         "cat_id": 1,
-        "lang_key": "en",
+        "lang_key": "th",
         "name": "ทดสอบ 7",
         "soundtrack_name": "7",
         "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzWxpXai3z6ZbePCJF5UXfXCdJ7Gxfq-c7KA9hGDAzTIeXk_qTBg",
@@ -162,7 +162,7 @@
     {
         "id": 8,
         "cat_id": 1,
-        "lang_key": "en",
+        "lang_key": "th",
         "name": "ทดสอบ 8",
         "soundtrack_name": "ทดสอบ 8",
         "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0MCW_5JDNub8eeqg09nZqS9uiIv7wwlbLYrOu_oQdj_27LedVg",
@@ -185,7 +185,7 @@
     {
         "id": 9,
         "cat_id": 1,
-        "lang_key": "en",
+        "lang_key": "th",
         "name": "ทดสอบ 9",
         "soundtrack_name": "ทดสอบ 9",
         "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShw_TA1Db53WayQTbJVgElWONF6gdVAnP58ijdqDuluBYe8ypD",
@@ -208,7 +208,7 @@
     {
         "id": 10,
         "cat_id": 1,
-        "lang_key": "en",
+        "lang_key": "th",
         "name": "ทดสอบ 10",
         "soundtrack_name": "ทดสอบ 10",
         "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhDpuqx71zjsq1QKNMjffQpO_PtPN2pbfwvB2_R4vKbP15uqI",
