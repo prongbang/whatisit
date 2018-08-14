@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "88ad8d86-8f4f-43c5-97e2-9f927b622c5d",
         "lang_key": "th",
         "name": "อาหาร",
         "icon": "https://prongbang.github.io/whatisit/image/category/food.svg",
@@ -8,7 +8,7 @@
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
-        "id": 2,
+        "id": "6ddc4c35-8e60-43f3-be7a-553ab8cca37a",
         "lang_key": "th",
         "name": "เครื่องยนต์",
         "icon": "https://prongbang.github.io/whatisit/image/category/motor.svg",
@@ -16,7 +16,7 @@
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
-        "id": 3,
+        "id": "35eae05f-a4b8-49c5-bc84-d1d3bfda72ba",
         "lang_key": "th",
         "name": "ผัก",
         "icon": "https://prongbang.github.io/whatisit/image/category/vegetables.svg",
@@ -24,7 +24,7 @@
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
-        "id": 4,
+        "id": "54b27a40-c51b-4eb2-a419-a60831e32b55",
         "lang_key": "th",
         "name": "สถานที่",
         "icon": "https://prongbang.github.io/whatisit/image/category/place.svg",
@@ -32,7 +32,7 @@
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
-        "id": 5,
+        "id": "f01cb20e-823f-4319-ab17-8d570ea5a7b2",
         "lang_key": "th",
         "name": "รถโดยสาร",
         "icon": "https://prongbang.github.io/whatisit/image/category/bus.svg",
@@ -40,7 +40,7 @@
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
-        "id": 6,
+        "id": "117bf487-1fd1-498e-b9a1-58722ca9e708",
         "lang_key": "th",
         "name": "เครื่องใช้ไฟฟ้า",
         "icon": "https://prongbang.github.io/whatisit/image/category/electronics.svg",
@@ -48,7 +48,7 @@
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
-        "id": 7,
+        "id": "a5638142-1ca7-45db-a3fa-8ff9314c7817",
         "lang_key": "th",
         "name": "สถาปัตยกรรม",
         "icon": "https://prongbang.github.io/whatisit/image/category/architecture.svg",
@@ -56,7 +56,7 @@
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
-        "id": 8,
+        "id": "f997a884-dc0b-4bd4-a96e-afef4916d10f",
         "lang_key": "th",
         "name": "พิธีกรรม",
         "icon": "https://prongbang.github.io/whatisit/image/category/rite.svg",
@@ -64,7 +64,7 @@
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
-        "id": 9,
+        "id": "af0c9676-662e-4e92-9f28-e2c19de590d4",
         "lang_key": "th",
         "name": "ประเพณี",
         "icon": "https://prongbang.github.io/whatisit/image/category/tradition.svg",
@@ -72,7 +72,7 @@
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
-        "id": 10,
+        "id": "57192024-3b61-451f-83b9-85565116e83d",
         "lang_key": "th",
         "name": "บุคคล",
         "icon": "https://prongbang.github.io/whatisit/image/category/person.svg",
@@ -80,7 +80,7 @@
         "update_at": "0001-01-01T00:00:00Z"
     },
     {
-        "id": 11,
+        "id": "1de91cce-9f2d-429a-a3d8-4bc4757c9ee6",
         "lang_key": "th",
         "name": "อื่น ๆ",
         "icon": "https://prongbang.github.io/whatisit/image/category/mode-circular.svg",
